@@ -1,2 +1,3 @@
 # da_net_promoter_score
-Looking for differences in loyalty in different groups
+
+Finding differences of loyalty level between groups of clients of a telecom company.
